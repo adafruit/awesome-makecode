@@ -13,6 +13,7 @@ Microsoft MakeCode is a framework for creating programming experiences for begin
 - [Code Frameworks](#code-frameworks)
 - [MakeCode Compatible Hardware](#makecode-compatible-hardware)
 - [In the news](#news)
+- [Videos](#videos)
 - [Art, logos, graphics](#art)
 - [Extending MakeCode](#extending-makecode)
 - [Contributing](#contributing)
@@ -52,6 +53,8 @@ Microsoft MakeCode is a framework for creating programming experiences for begin
 ## News
 - [BKLYN Fashion Academy Class of 2019 Shines at Runway Show](https://bklyner.com/bklyn-fashion-academy-class-of-2019-shines-at-runway-show/) - wearable technology sponsored by Microsoft’s MakeCode, May 6, 2019
 - [Cartoon Network, Microsoft MakeCode and Adafruit team up to create new coding projects for kids](https://www.latimes.com/entertainment/herocomplex/la-et-hc-cartoon-network-microsoft-adafruit-coding-20190107-story.html) - by Tracy Brown, LA Times, January 7, 2019.
+
+## Videos
 
 ## Art
 
