@@ -2,7 +2,7 @@
   <img width="150" src="https://github.com/adafruit/awesome-makecode/blob/master/assets/MakeCodeLogo.jpg" alt="Awesome Feather"><br>Awesome MakeCode
 </h1>
 
-> A curated list of awesome MakeCode guides, hardware, software and resources.
+> A curated list of awesome Microsoft MakeCode guides, hardware, software and resources.
 
 Microsoft MakeCode is
 
