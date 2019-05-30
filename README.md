@@ -55,6 +55,8 @@ Microsoft MakeCode is a framework for creating programming experiences for begin
 - [Cartoon Network, Microsoft MakeCode and Adafruit team up to create new coding projects for kids](https://www.latimes.com/entertainment/herocomplex/la-et-hc-cartoon-network-microsoft-adafruit-coding-20190107-story.html) - by Tracy Brown, LA Times, January 7, 2019.
 
 ## Videos
+- [Microsoft MakeCode YouTube Channel](https://www.youtube.com/channel/UCye7YlvFUUQ1dSy0WZZ1T_Q)
+- [Adafruit MakeCode Videos](https://www.youtube.com/user/adafruit/search?query=Makecode) - includes John Park's MakeCode Minute series.
 
 ## Art
 
