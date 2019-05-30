@@ -54,11 +54,14 @@ Microsoft MakeCode is a framework for creating programming experiences for begin
 - [Other Compatible Boards](https://maker.makecode.com/boards/misc)
 - [Adding another board](https://maker.makecode.com/boards/add-a-new-board)
 
-### MakeCode Arcade-compatible Hardware
+### MakeCode Arcade Compatible Hardware
 - [Adafruit PyGamer](https://www.adafruit.com/product/4242)
 - [Adafruit PyBadge](https://www.adafruit.com/product/4200)
 - [Adafruit PyBadge LC](https://www.adafruit.com/product/3939)
 - [KittenBot Meowbit](https://www.kittenbot.cc/products/meowbit-codable-console-for-microsoft-makecode-arcade) - a codable Console for Microsoft Makecode Arcade.
+- [BrainPad Arcade](https://brainpad.com/arcade/how-it-works)
+- [Adafruit M4 Board and Screen](https://learn.adafruit.com/makecode-arcade-with-samd51-m4)
+- [Raspberry Pi Zero and Adafruit Joy Bonnet](https://learn.adafruit.com/makecode-arcade-with-raspberry-pi-zero)
 
 ## News
 - [BKLYN Fashion Academy Class of 2019 Shines at Runway Show](https://bklyner.com/bklyn-fashion-academy-class-of-2019-shines-at-runway-show/) - wearable technology sponsored by Microsoft’s MakeCode, May 6, 2019
