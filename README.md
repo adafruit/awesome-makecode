@@ -1,12 +1,12 @@
 <h1 align="center">
-  <img width="853" src="https://github.com/adafruit/awesome-feather/blob/master/awesome_feather.png" alt="Awesome Feather"><br>Awesome Feather
+  <img width="853" src="https://github.com/adafruit/awesome-makecode/blob/master/assets/MakeCodeLogo.jpg" alt="Awesome Feather"><br>Awesome MakeCode
 </h1>
 
-> A curated list of awesome Feather boards, add-ons (FeatherWings), guides, videos, software and resources.
+> A curated list of awesome MakeCode guides, hardware, software and resources.
 
-The Adafruit [Feather](https://www.adafruit.com/category/943) are a complete line of development boards from [Adafruit](https://www,adafruit.com/) that are both standalone and stackable. They're able to be powered by LiPo batteries for on-the-go use or by their micro-USB plugs for stationary projects. Feathers are flexible, portable, and as light as their namesake. FeatherWings are stacking boards and add functionality and room for prototyping. At its core, the Adafruit Feather is a complete ecosystem of products - and the best way to get your project flying. 
+Microsoft MakeCode is
 
-All Adafruit products are open source. Adafruit encourages other companies to utilize this form factor to maximize compatibility with dozens of pre-existing boards.
+
 
 ## Contents
 
