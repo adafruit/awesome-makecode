@@ -27,6 +27,7 @@ Microsoft MakeCode is a framework for creating programming experiences for begin
 ## Community
 - [Microsoft MakeCode Blog](https://makecode.com/blog)
 - [/r/MakeCode Subreddit, Reddit](https://www.reddit.com/r/MakeCode/) - unofficial, community supported.
+- [Microsoft MakeCode Twitter: @MSMakeCode](https://twitter.com/msmakecode)
 
 ## Code Frameworks
 
