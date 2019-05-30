@@ -4,7 +4,7 @@
 
 > A curated list of awesome Microsoft MakeCode guides, hardware, software and resources.
 
-Microsoft MakeCode is
+Microsoft MakeCode is a framework for creating programming experiences for beginners.
 
 
 
