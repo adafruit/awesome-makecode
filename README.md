@@ -18,14 +18,17 @@ Microsoft MakeCode is a framework for creating programming experiences for begin
 - [Accessories](#accessories)
 - [In the news](#news)
 - [Art, logos, graphics](#art)
-- [Social media](#social)
+- [Extending MakeCode](#extending-makecode)
 - [Contributing](#contributing)
 
 ## Guides and Learning
-
+- [ABout Microsoft MakeCode](https://makecode.com/about)
+- [Technical Documentation](https://makecode.com/docs)
+- [The UF2 File Format](https://github.com/microsoft/uf2) - the drag & drop to a flash disk capability.
+- [Accessability](https://makecode.com/accessibility)
 
 ## Community
-
+- [Microsoft MakeCode Blog(https://makecode.com/blog)
 
 
 ## Code Frameworks
@@ -35,8 +38,23 @@ Microsoft MakeCode is a framework for creating programming experiences for begin
 ## MakeCode Compatible Hardware
 
 
-# MakeCode Arcade Compatible Hardware
+## MakeCode Arcade Compatible Hardware
 
+### Specific Hardware Platforms
+- [BBC micro:bit](https://makecode.microbit.org/)
+- [Adafruit Circuit Playground Express](https://makecode.adafruit.com/)
+- [Microsoft Minecraft](https://minecraft.makecode.com/)
+- [LEGO® MINDSTORMS® Education EV3](https://makecode.mindstorms.com/)
+- [Cue](https://www.makewonder.com/cue_the_cleverbot/explore) by Wonder Workshop.
+- [Chibi Chip](https://makecode.chibitronics.com/) by chibitronics.
+
+### General Hardware
+- [MakeCode Maker](https://maker.makecode.com/) - uses a breadboard approach to connecting components.
+
+### MakeCode Arcade-compatible Hardware
+- [Adafruit PyGamer](https://www.adafruit.com/product/4242)
+- [Adafruit PyBadge](https://www.adafruit.com/product/4200)
+- [Adafruit PyBadge LC](https://www.adafruit.com/product/3939)
 
 ## Accessories
 
@@ -46,10 +64,9 @@ Microsoft MakeCode is a framework for creating programming experiences for begin
 
 ## Art
 
-
-## Social
-
-
+## Extending MakeCode
+- [Creating Targets](https://makecode.com/target-creation) - new hardware platforms for MakeCode
+- [Creating Extensions](https://makecode.com/extensions) - an extension is like a plug-in, providing specific functionality for hardware or software.
 
 ## Contributing
 
