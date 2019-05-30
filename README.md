@@ -56,7 +56,6 @@ Microsoft MakeCode is a framework for creating programming experiences for begin
 - [Adafruit PyGamer](https://www.adafruit.com/product/4242)
 - [Adafruit PyBadge](https://www.adafruit.com/product/4200)
 - [Adafruit PyBadge LC](https://www.adafruit.com/product/3939)
-- [Arduino Compatible Boards](https://maker.makecode.com/boards/arduino)
 
 ## News
 - [BKLYN Fashion Academy Class of 2019 Shines at Runway Show](https://bklyner.com/bklyn-fashion-academy-class-of-2019-shines-at-runway-show/) - wearable technology sponsored by Microsoft’s MakeCode, May 6, 2019
