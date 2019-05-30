@@ -13,7 +13,6 @@ Microsoft MakeCode is a framework for creating programming experiences for begin
 - [Code Frameworks](#code-frameworks)
 - [Feather Hardware](#feather-hardware)
 - [FeatherWings](#featherwings)
-- [Accessories](#accessories)
 - [In the news](#news)
 - [Art, logos, graphics](#art)
 - [Extending MakeCode](#extending-makecode)
@@ -32,11 +31,7 @@ Microsoft MakeCode is a framework for creating programming experiences for begin
 ## Code Frameworks
 
 
-
 ## MakeCode Compatible Hardware
-
-
-## MakeCode Arcade Compatible Hardware
 
 ### Specific Hardware Platforms
 - [BBC micro:bit](https://makecode.microbit.org/)
@@ -53,8 +48,6 @@ Microsoft MakeCode is a framework for creating programming experiences for begin
 - [Adafruit PyGamer](https://www.adafruit.com/product/4242)
 - [Adafruit PyBadge](https://www.adafruit.com/product/4200)
 - [Adafruit PyBadge LC](https://www.adafruit.com/product/3939)
-
-## Accessories
 
 
 ## News
