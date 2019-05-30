@@ -24,6 +24,7 @@ Microsoft MakeCode is a framework for creating programming experiences for begin
 - [Technical Documentation](https://makecode.com/docs)
 - [The UF2 File Format](https://github.com/microsoft/uf2) - the drag & drop to a flash disk capability.
 - [Accessability](https://makecode.com/accessibility)
+- [MakeCode Maker Documentation](https://maker.makecode.com/docs)
 
 ## Community
 - [Microsoft MakeCode Blog](https://makecode.com/blog)
