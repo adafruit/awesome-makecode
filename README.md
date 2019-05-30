@@ -43,14 +43,20 @@ Microsoft MakeCode is a framework for creating programming experiences for begin
 - [Cue](https://www.makewonder.com/cue_the_cleverbot/explore) by Wonder Workshop.
 - [Chibi Chip](https://makecode.chibitronics.com/) by chibitronics.
 
-### General Hardware
+### MakeCode Maker
 - [MakeCode Maker](https://maker.makecode.com/) - uses a breadboard approach to connecting components.
+- [Adafruit Compatible Boards](https://maker.makecode.com/boards/adafruit)
+- [SparkFun Compatible Boards](https://maker.makecode.com/boards/sparkfun)
+- [Arduino Compatible Boards](https://maker.makecode.com/boards/arduino)
+- [Beads (Project Brookdale) Compatible Boards](https://maker.makecode.com/boards/beads)
+- [Other Compatible Boards](https://maker.makecode.com/boards/misc)
+- [Adding another board](https://maker.makecode.com/boards/add-a-new-board)
 
 ### MakeCode Arcade-compatible Hardware
 - [Adafruit PyGamer](https://www.adafruit.com/product/4242)
 - [Adafruit PyBadge](https://www.adafruit.com/product/4200)
 - [Adafruit PyBadge LC](https://www.adafruit.com/product/3939)
-
+- [Arduino Compatible Boards](https://maker.makecode.com/boards/arduino)
 
 ## News
 - [BKLYN Fashion Academy Class of 2019 Shines at Runway Show](https://bklyner.com/bklyn-fashion-academy-class-of-2019-shines-at-runway-show/) - wearable technology sponsored by Microsoft’s MakeCode, May 6, 2019
