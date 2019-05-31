@@ -31,6 +31,10 @@ Microsoft MakeCode is a framework for creating programming experiences for begin
 - [Adafruit Blog Posts on MakeCode](https://blog.adafruit.com/?s=MakeCode)
 - [/r/MakeCode Subreddit, Reddit](https://www.reddit.com/r/MakeCode/) - unofficial, community supported.
 - [Microsoft MakeCode Twitter: @MSMakeCode](https://twitter.com/msmakecode)
+- [Microsoft MakeCode Forum](https://forum.makecode.com/)
+- [Adafruit Discord](https://adafru.it/discord) -- look for the #makecode channel
+- [Microsoft MakeCode Discord](https://aka.ms/makecodecommunity)
+
 
 ## Code Frameworks
 
@@ -76,6 +80,8 @@ Microsoft MakeCode is a framework for creating programming experiences for begin
 ## Extending MakeCode
 - [Creating Targets](https://makecode.com/target-creation) - new hardware platforms for MakeCode
 - [Creating Extensions](https://makecode.com/extensions) - an extension is like a plug-in, providing specific functionality for hardware or software.
+- [MakeCode PTX GitHub for Adafruit boards](https://github.com/microsoft/pxt-adafruit) 
+- [MakeCode PTX GitHub for Arcade](https://github.com/microsoft/pxt-arcade)
 
 ## Contributing
 
