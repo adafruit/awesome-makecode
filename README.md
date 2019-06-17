@@ -66,6 +66,7 @@ Microsoft MakeCode is a framework for creating programming experiences for begin
 - [BrainPad Arcade](https://brainpad.com/arcade/how-it-works)
 - [Adafruit M4 Board and Screen](https://learn.adafruit.com/makecode-arcade-with-samd51-m4)
 - [Raspberry Pi Zero and Adafruit Joy Bonnet](https://learn.adafruit.com/makecode-arcade-with-raspberry-pi-zero)
+- [WiFiBoy Arcade](https://wifiboy.org/)
 
 ## News
 - [BKLYN Fashion Academy Class of 2019 Shines at Runway Show](https://bklyner.com/bklyn-fashion-academy-class-of-2019-shines-at-runway-show/) - wearable technology sponsored by Microsoft’s MakeCode, May 6, 2019
