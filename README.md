@@ -32,6 +32,7 @@ Microsoft MakeCode is a framework for creating programming experiences for begin
 - [/r/MakeCode Subreddit, Reddit](https://www.reddit.com/r/MakeCode/) - unofficial, community supported.
 - [Microsoft MakeCode Twitter: @MSMakeCode](https://twitter.com/msmakecode)
 - [Microsoft MakeCode Forum](https://forum.makecode.com/)
+- [Adafruit Posts on the MakeCode Forum](https://forum.makecode.com/search?q=adafruit%20order%3Alatest)
 - [Adafruit Discord](https://adafru.it/discord) -- look for the #makecode channel
 - [Microsoft MakeCode Discord](https://aka.ms/makecodecommunity)
 
