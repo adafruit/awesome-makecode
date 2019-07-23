@@ -76,6 +76,9 @@ Microsoft MakeCode is a framework for creating programming experiences for begin
 ## Videos
 - [Microsoft MakeCode YouTube Channel](https://www.youtube.com/channel/UCye7YlvFUUQ1dSy0WZZ1T_Q)
 - [Adafruit MakeCode Videos](https://www.youtube.com/user/adafruit/search?query=Makecode) - includes John Park's MakeCode Minute series.
+- [Behind the MakeCode Hardware - Microphone on Circuit Playground Express](https://youtu.be/g5894PVYOF4) - narrated by Shawn Hymel.
+- [Behind the MakeCode Hardware - Infrared on the Circuit Playground Express](https://youtu.be/0EMuaMClfos) - narrated by Shawn Hymel.
+- [Behind the MakeCode Hardware - Light Sensor on the Circuit Playground Express](https://youtu.be/9LrWQ68lO20) - narrated by Shawn Hymel.
 
 ## Art
 
