@@ -36,10 +36,6 @@ Microsoft MakeCode is a framework for creating programming experiences for begin
 - [Adafruit Discord](https://adafru.it/discord) -- look for the #makecode channel
 - [Microsoft MakeCode Discord](https://aka.ms/makecodecommunity)
 
-
-## Code Frameworks
-
-
 ## MakeCode Compatible Hardware
 
 ### Specific Hardware Platforms
@@ -76,6 +72,7 @@ Microsoft MakeCode is a framework for creating programming experiences for begin
 ## Videos
 - [Microsoft MakeCode YouTube Channel](https://www.youtube.com/channel/UCye7YlvFUUQ1dSy0WZZ1T_Q)
 - [Adafruit MakeCode Videos](https://www.youtube.com/user/adafruit/search?query=Makecode) - includes John Park's MakeCode Minute series.
+- [Adafruit and John Park's MakeCode Arcade Game of the Week Playlist](https://www.youtube.com/playlist?list=PLjF7R1fz_OOUpC_QY_Y5CmPKm-a5Cg4Qo)
 - [Behind the MakeCode Hardware - Microphone on Circuit Playground Express](https://youtu.be/g5894PVYOF4) - narrated by Shawn Hymel.
 - [Behind the MakeCode Hardware - Infrared on the Circuit Playground Express](https://youtu.be/0EMuaMClfos) - narrated by Shawn Hymel.
 - [Behind the MakeCode Hardware - Light Sensor on the Circuit Playground Express](https://youtu.be/9LrWQ68lO20) - narrated by Shawn Hymel.
