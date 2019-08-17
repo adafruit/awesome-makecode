@@ -14,7 +14,7 @@ Microsoft MakeCode is a framework for creating programming experiences for begin
 - [MakeCode Compatible Hardware](#makecode-compatible-hardware)
 - [In the news](#news)
 - [Videos](#videos)
-- [Art, logos, graphics](#art)
+- [Books](#books)
 - [Extending MakeCode](#extending-makecode)
 - [Contributing](#contributing)
 
@@ -77,7 +77,7 @@ Microsoft MakeCode is a framework for creating programming experiences for begin
 - [Behind the MakeCode Hardware - Infrared on the Circuit Playground Express](https://youtu.be/0EMuaMClfos) - narrated by Shawn Hymel.
 - [Behind the MakeCode Hardware - Light Sensor on the Circuit Playground Express](https://youtu.be/9LrWQ68lO20) - narrated by Shawn Hymel.
 
-## Art
+## Books
 
 ## Extending MakeCode
 - [Creating Targets](https://makecode.com/target-creation) - new hardware platforms for MakeCode
