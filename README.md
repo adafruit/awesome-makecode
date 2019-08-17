@@ -78,6 +78,7 @@ Microsoft MakeCode is a framework for creating programming experiences for begin
 - [Behind the MakeCode Hardware - Light Sensor on the Circuit Playground Express](https://youtu.be/9LrWQ68lO20) - narrated by Shawn Hymel.
 
 ## Books
+- [Bots! Robotics Engineering with Hands-On Makerspace Activities](https://nomadpress.net/nomadpress-books/bots-robotics-engineering/) - by [Kathy Ceceri](https://twitter.com/KathyCeceri)  
 
 ## Extending MakeCode
 - [Creating Targets](https://makecode.com/target-creation) - new hardware platforms for MakeCode
