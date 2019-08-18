@@ -15,7 +15,7 @@ Microsoft MakeCode is a framework for creating programming experiences for begin
 - [In the news](#news)
 - [Videos](#videos)
 - [Books](#books)
-- [Extending MakeCode](#extending-makecode)
+- [MakeCode Development](#makecode-development)
 - [Contributing](#contributing)
 
 ## Guides and Learning
@@ -80,9 +80,10 @@ Microsoft MakeCode is a framework for creating programming experiences for begin
 ## Books
 - [Bots! Robotics Engineering with Hands-On Makerspace Activities](https://nomadpress.net/nomadpress-books/bots-robotics-engineering/) - by [Kathy Ceceri](https://twitter.com/KathyCeceri)  
 
-## Extending MakeCode
+## MakeCode Development
 - [Creating Targets](https://makecode.com/target-creation) - new hardware platforms for MakeCode
 - [Creating Extensions](https://makecode.com/extensions) - an extension is like a plug-in, providing specific functionality for hardware or software.
+- [MakeCode Arcade Developer Tips and Tricks](https://arcade.makecode.com/developer/)
 - [MakeCode PTX GitHub for Adafruit boards](https://github.com/microsoft/pxt-adafruit) 
 - [MakeCode PTX GitHub for Arcade](https://github.com/microsoft/pxt-arcade)
 
